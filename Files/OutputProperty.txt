@@ -1,0 +1,19 @@
+MyBnb
+
+Property
+
+
+Apartments:
+Register number: 100,	Owner: Michael,	Postal address: 2_Sheep_Lane,	Total Rental days: 0,	Rent per day: €50,	Storey number: 3,	Number of beds: 3.
+Register number: 101,	Owner: Charlie,	Postal address: 555_Heffervil,	Total Rental days: 0,	Rent per day: €50,	Storey number: 2,	Number of beds: 2.
+Register number: 102,	Owner: Wayne,	Postal address: 727_Tinytowny,	Total Rental days: 0,	Rent per day: €50,	Storey number: 3,	Number of beds: 4.
+
+Houses:
+Register number:  103,	Owner:  Cill,	Postal address:  1_Nerdy_Lane,	Total Rental Days:  0,	Rent per day:  €50,	No. of storeys:  2,	Clearing fees:  €30.
+Register number:  104,	Owner:  Sean,	Postal address:  5_TrinityTown,	Total Rental Days:  0,	Rent per day:  €60,	No. of storeys:  4,	Clearing fees:  €30.
+Register number:  105,	Owner:  Peadar,	Postal address:  44_Cellovil,	Total Rental Days:  0,	Rent per day:  €60,	No. of storeys:  3,	Clearing fees:  €35.
+
+Villas:
+Register number: 106,	Owner: Brian,	Postal Address: TY_Towntimer,	Total Rental Days: 0,	Rent per day: €50,	No. of rooms: 5,	Room service cost per day: €20,	Luxury tax per day: €10.
+Register number: 107,	Owner: Cian,	Postal Address: 7_FootTallvil,	Total Rental Days: 0,	Rent per day: €40,	No. of rooms: 7,	Room service cost per day: €25,	Luxury tax per day: €15.
+Register number: 108,	Owner: Isaac,	Postal Address: NoPhone_Land,	Total Rental Days: 0,	Rent per day: €55,	No. of rooms: 7,	Room service cost per day: €15,	Luxury tax per day: €15.

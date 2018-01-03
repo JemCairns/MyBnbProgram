@@ -1,0 +1,9 @@
+1 Michael 2_Sheep_Lane 50 0 3 3 
+1 Charlie 555_Heffervil 50 0 2 2 
+1 Wayne 727_Tinytowny 50 0 3 4 
+2 Cill 1_Nerdy_Lane 50 0 2 30 
+2 Sean 5_TrinityTown 60 0 4 30 
+2 Peadar 44_Cellovil 60 0 3 35 
+3 Brian TY_Towntimer 50 0 5 20 10 
+3 Cian 7_FootTallvil 40 0 7 25 15 
+3 Isaac NoPhone_Land 55 0 7 15 15 

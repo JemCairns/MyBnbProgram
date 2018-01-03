@@ -1,0 +1,14 @@
+MyBnb
+
+Vehicles
+
+
+Cars:
+Register number: 201,	Owner: Gavin,	Total Rental days: 22,	Rent per day: 50 euro,	No. of Passengers: 4.
+Register number: 202,	Owner: Sabeer,	Total Rental days: 14,	Rent per day: 50 euro,	No. of Passengers: 2.
+Register number: 203,	Owner: Aiden,	Total Rental days: 13,	Rent per day: 50 euro,	No. of Passengers: 3.
+
+Trucks:
+Register number:  204,	Owner: Conor,	Total Rental days: 5,	Rent per day: 50 euro,	No. of Passengers: 34.
+Register number:  205,	Owner: Euan,	Total Rental days: 12,	Rent per day: 60 euro,	No. of Passengers: 20.
+Register number:  206,	Owner: Fionan,	Total Rental days: 24,	Rent per day: 60 euro,	No. of Passengers: 25.
